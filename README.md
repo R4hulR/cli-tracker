@@ -1,9 +1,8 @@
 # Task Tracker CLI
 
 > This project is a part of the [roadmap.sh Task Tracker Project](https://roadmap.sh/projects/task-tracker)
->
-> **Project URL:** https://roadmap.sh/projects/task-tracker
-A simple command line app to track your tasks. Add tasks, update them, mark progress, and delete them , all stored in a local JSON file. 
+
+A simple command line app to track your tasks. Add tasks, update them, mark progress, and delete them — all stored in a local JSON file.
 ---
 ## Requirements
 - Python 3
